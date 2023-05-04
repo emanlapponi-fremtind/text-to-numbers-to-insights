@@ -1,7 +1,7 @@
 # 📝 🧮 💡 Text to numbers to insight
-## An NLP primer
+A practical and friendly primer on neural NLP
 
-## Install
+### Install
 
 From a your python 3.8 env of choice:
 
