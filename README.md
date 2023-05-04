@@ -1,9 +1,9 @@
 # 📝 🧮 💡 Text to numbers to insight
-## An NLP primer
+A practical and friendly primer on neural NLP.
 
-## Install
+### 📦 Install
 
-From a your python 3.8 env of choice:
+From your python 3.8 env of choice:
 
 ```
 pip install -r requirements.txt
@@ -16,3 +16,6 @@ python -m spacy download en_core_web_sm
 python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('distiluse-base-multilingual-cased-v2')"
 ```
 
+### 🏃🏻‍♀️ Run
+
+Run `jupyter lab` in the terminal, then click on `notebook.ipynb`
