@@ -13,7 +13,7 @@ Then run these in your env to get the language models:
 
 ```
 python -m spacy download en_core_web_sm
-python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('distiluse-base-multilingual-cased-v2')"
+python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('distiluse-base-multilingual-cased-v2'); SentenceTransformer("msmarco-distilbert-base-v2")"
 ```
 
 ### 🏃🏻‍♀️ Run

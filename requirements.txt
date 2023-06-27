@@ -171,6 +171,7 @@ murmurhash==1.0.9
 mypy-extensions==1.0.0
 natsort==8.3.1
 nb-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/nb_core_news_sm-3.5.0/nb_core_news_sm-3.5.0-py3-none-any.whl
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
 nbclassic==0.5.5
 nbclient==0.7.3
 nbconvert==7.3.1
